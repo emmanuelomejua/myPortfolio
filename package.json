@@ -1,6 +1,7 @@
 {
   "name": "My portfolio",
   "version": "0.1.0",
+  "homepage": "http://eomejua.com",
   "private": true,
   "dependencies": {
     "@mui/icons-material": "^5.11.11",
