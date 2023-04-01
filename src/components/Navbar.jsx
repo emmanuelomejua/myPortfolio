@@ -76,7 +76,7 @@ const Navbar = () => {
            </Links>
 
            <Icons>
-            <Button>Hire Now!</Button>
+            <Button>Contact Us!</Button>
             <Icon src={line}/>
            </Icons>
 

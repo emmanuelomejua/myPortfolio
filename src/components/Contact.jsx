@@ -1,5 +1,5 @@
 import styled from "styled-components"
-
+import Map from './Map'
 
 const Section = styled.section`
     height: 100vh;
@@ -11,7 +11,7 @@ const Container = styled.div`
     width: 100%;
     height: 100%;
     justify-content: space-between;
-    gap: 50px
+    gap: 50px;
 `
 
 const Left = styled.div`
@@ -94,7 +94,7 @@ const Contact = () => {
          
         </Left>
         <Right>
-          Right
+          <Map/>
         </Right>
       </Container>
     </Section>
